@@ -1,0 +1,420 @@
+,Structure,SpaceType,Sum of Inventory,Sum of 8am,Sum of 9am,Sum of 10am,Sum of 11am,Sum of 12pm,Sum of 1pm,Sum of 2pm,Sum of 3pm,Sum of 4pm,Sum of 5pm,Min of EmptyCalc,Sum of OccupiedCalc,Sum of PercentCalc,quarter
+0,Athena,A,187,129,91,71,60,52,68,69,75,107,134,52,135,0.7219251336898396,fall
+1,Athena,Accessible,81,53,46,31,35,37,31,36,44,55,67,31,50,0.6172839506172839,fall
+2,Athena,Allocated,45,22,15,18,15,21,11,9,12,21,28,9,36,0.8,fall
+3,Athena,B,655,334,262,220,194,193,176,177,237,321,380,176,479,0.7312977099236642,fall
+4,Athena,Reserved,6,5,5,5,5,5,5,5,5,6,6,5,1,0.16666666666666666,fall
+5,Athena,Visitor,265,154,128,84,87,102,94,101,113,110,176,84,181,0.6830188679245283,fall
+6,Athena Total,,1239,697,547,429,396,410,385,397,486,620,791,385,854,0.6892655367231638,fall
+7,Campus Point East,A,372,134,46,16,19,15,32,47,61,120,144,15,357,0.9596774193548387,fall
+8,Campus Point East,Accessible,12,12,12,11,11,11,12,12,12,12,12,11,1,0.08333333333333333,fall
+9,Campus Point East,Allocated,3,2,1,0,0,0,1,0,2,3,2,0,3,1,fall
+10,Campus Point East,Reserved,37,27,22,22,19,18,20,24,24,32,31,18,19,0.5135135135135135,fall
+11,Campus Point East Total,,424,175,81,49,49,44,65,83,99,167,189,44,380,0.8962264150943396,fall
+12,Campus Point West,A,7,7,0,0,0,1,0,0,1,2,3,0,7,1,fall
+13,Campus Point West,Accessible,104,44,24,39,24,20,25,33,41,49,50,20,84,0.8076923076923077,fall
+14,Campus Point West,Allocated,16,3,1,0,0,0,0,0,2,3,2,0,16,1,fall
+15,Campus Point West,B,217,0,0,0,0,0,7,48,53,71,75,0,217,1,fall
+16,Campus Point West,Reserved,8,8,7,4,5,6,5,4,5,6,6,4,4,0.5,fall
+17,Campus Point West,Visitor,675,211,116,64,36,44,32,81,121,176,212,32,643,0.9525925925925925,fall
+18,Campus Point West Total,,1027,273,148,107,65,71,69,166,223,307,348,65,962,0.9367088607594937,fall
+19,Gilman,A,401,248,208,97,76,62,74,106,109,139,190,62,339,0.8453865336658354,fall
+20,Gilman,Accessible,42,0,0,2,0,0,6,12,20,26,28,0,42,1,fall
+21,Gilman,Allocated,64,47,36,26,13,12,21,25,25,23,29,12,52,0.8125,fall
+22,Gilman,B,123,0,0,0,0,3,0,8,18,32,56,0,123,1,fall
+23,Gilman,Reserved,12,10,9,7,8,9,8,8,7,8,7,7,5,0.4166666666666667,fall
+24,Gilman,UC Vehicle,12,7,8,7,11,7,8,8,7,6,8,6,6,0.5,fall
+25,Gilman,Visitor,186,34,20,9,8,4,9,21,10,39,63,4,182,0.978494623655914,fall
+26,Gilman Total,,840,346,281,148,116,97,126,188,196,273,381,97,743,0.8845238095238095,fall
+27,Hopkins,A,233,211,199,84,58,20,39,50,46,65,71,20,213,0.9141630901287554,fall
+28,Hopkins,Accessible,25,22,22,22,21,19,20,20,19,9,18,9,16,0.64,fall
+29,Hopkins,Allocated,103,81,56,28,10,0,0,3,0,4,18,0,103,1,fall
+30,Hopkins,B,603,420,188,1,0,0,0,7,1,34,69,0,603,1,fall
+31,Hopkins,Reserved,14,8,4,6,6,4,5,5,5,7,7,4,10,0.7142857142857143,fall
+32,Hopkins,S,100,0,0,0,0,0,0,1,0,0,1,0,100,1,fall
+33,Hopkins,SR,228,0,0,0,0,0,0,1,0,5,6,0,228,1,fall
+34,Hopkins,UC Vehicle,6,1,1,0,1,1,1,0,0,0,1,0,6,1,fall
+35,Hopkins,Visitor,90,62,40,0,0,0,3,6,0,0,0,0,90,1,fall
+36,Hopkins Total,,1402,805,510,141,96,44,68,93,71,124,191,44,1358,0.9686162624821684,fall
+37,Medical Center Hillcrest,A,235,68,67,54,54,56,56,61,62,112,113,54,181,0.7702127659574468,fall
+38,Medical Center Hillcrest,Accessible,45,4,4,5,4,4,4,5,8,14,20,4,41,0.9111111111111111,fall
+39,Medical Center Hillcrest,Allocated,156,52,46,44,33,47,40,50,65,68,92,33,123,0.7884615384615384,fall
+40,Medical Center Hillcrest,B,1089,123,123,87,82,85,107,164,375,480,661,82,1007,0.9247015610651974,fall
+41,Medical Center Hillcrest,Loading,4,0,1,1,0,1,1,0,0,2,1,0,4,1,fall
+42,Medical Center Hillcrest,Reserved,112,85,77,67,63,74,78,75,75,78,80,63,49,0.4375,fall
+43,Medical Center Hillcrest,Service Yard,11,2,1,0,1,0,1,2,2,5,6,0,11,1,fall
+44,Medical Center Hillcrest,UC Vehicle,12,4,3,2,3,4,5,6,8,5,5,2,10,0.8333333333333334,fall
+45,Medical Center Hillcrest,Visitor,263,63,57,65,65,72,72,63,63,141,143,57,206,0.7832699619771863,fall
+46,Medical Center Hillcrest Total,,1927,401,379,325,305,343,364,426,658,905,1121,305,1622,0.8417228853139596,fall
+47,Nuevo West/Vela,Accessible,19,17,17,17,17,15,16,17,17,16,19,15,4,0.21052631578947367,fall
+48,Nuevo West/Vela,Allocated,49,26,26,29,24,19,17,17,16,21,31,16,33,0.673469387755102,fall
+49,Nuevo West/Vela,B,455,80,72,32,23,17,15,14,22,56,137,14,441,0.9692307692307692,fall
+50,Nuevo West/Vela Total,,523,123,115,78,64,51,48,48,55,93,187,48,475,0.9082217973231358,fall
+51,Pangea,A,84,70,53,46,32,20,4,12,16,25,28,4,80,0.9523809523809523,fall
+52,Pangea,Accessible,15,13,12,10,9,10,12,10,8,8,10,8,7,0.4666666666666667,fall
+53,Pangea,Allocated,16,10,6,1,2,1,0,1,5,9,10,0,16,1,fall
+54,Pangea,B,329,198,69,0,0,0,0,0,28,39,70,0,329,1,fall
+55,Pangea,Reserved,12,9,9,10,5,6,6,7,8,7,6,5,7,0.5833333333333334,fall
+56,Pangea,S,410,0,0,0,0,0,0,0,4,6,19,0,410,1,fall
+57,Pangea,UC Vehicle,9,7,7,6,6,5,6,6,6,6,6,5,4,0.4444444444444444,fall
+58,Pangea,Visitor,76,41,26,22,3,0,0,2,8,15,17,0,76,1,fall
+59,Pangea Total,,951,348,182,95,57,42,28,38,83,115,166,28,923,0.9705573080967402,fall
+60,Scholars,A,292,175,20,0,0,0,13,16,35,61,69,0,292,1,fall
+61,Scholars,Accessible,65,42,33,29,21,19,35,29,34,37,41,19,46,0.7076923076923077,fall
+62,Scholars,Allocated,20,15,22,6,2,1,5,4,2,6,1,1,19,0.95,fall
+63,Scholars,B,371,4,2,0,2,0,0,0,13,41,53,0,371,1,fall
+64,Scholars,Reserved,31,24,19,16,17,13,13,14,18,14,18,13,18,0.5806451612903226,fall
+65,Scholars,S,113,0,0,0,0,0,0,0,0,0,0,0,113,1,fall
+66,Scholars,Service Yard,4,4,4,4,2,1,2,1,2,2,2,1,3,0.75,fall
+67,Scholars,Visitor,147,56,7,0,1,0,13,9,6,9,13,0,147,1,fall
+68,Scholars Total,,1043,320,107,55,45,34,81,73,110,170,197,34,1009,0.9674017257909875,fall
+69,South Parking Structure,A,158,69,0,0,0,0,11,25,35,47,53,0,158,1,fall
+70,South Parking Structure,Accessible,24,14,12,12,12,10,8,8,11,15,16,8,16,0.6666666666666666,fall
+71,South Parking Structure,Allocated,94,21,7,0,1,2,4,9,8,16,19,0,94,1,fall
+72,South Parking Structure,B,580,12,0,0,0,0,0,32,103,213,238,0,580,1,fall
+73,South Parking Structure,Reserved,5,4,3,3,3,2,3,1,1,3,3,1,4,0.8,fall
+74,South Parking Structure,S,317,0,0,0,0,0,0,2,3,2,7,0,317,1,fall
+75,South Parking Structure,Service Yard,2,0,0,0,0,0,0,0,0,0,1,0,2,1,fall
+76,South Parking Structure,UC Vehicle,13,8,8,8,9,5,6,9,8,8,8,5,8,0.6153846153846154,fall
+77,South Parking Structure,Visitor,113,58,2,0,0,1,1,1,20,21,23,0,113,1,fall
+78,South Parking Structure Total,,1306,186,32,23,25,20,33,87,189,325,368,20,1286,0.9846860643185299,fall
+79,Torrey Pines Center North,Accessible,13,11,10,10,11,11,9,8,10,11,13,8,5,0.38461538461538464,fall
+80,Torrey Pines Center North,Allocated,35,22,23,21,19,20,21,20,22,21,23,19,16,0.45714285714285713,fall
+81,Torrey Pines Center North,B,439,337,313,314,315,320,330,334,340,371,385,313,126,0.2870159453302961,fall
+82,Torrey Pines Center North,Loading,2,2,2,2,2,2,2,2,2,1,1,1,1,0.5,fall
+83,Torrey Pines Center North,Reserved,14,14,14,14,14,12,12,13,13,13,13,12,2,0.14285714285714285,fall
+84,Torrey Pines Center North,S,135,91,90,85,80,78,85,88,90,94,100,78,57,0.4222222222222222,fall
+85,Torrey Pines Center North,Service Yard,1,1,1,1,1,1,1,1,1,1,1,1,0,0,fall
+86,Torrey Pines Center North,UC Vehicle,7,2,2,2,2,2,2,2,2,2,2,2,5,0.7142857142857143,fall
+87,Torrey Pines Center North,Visitor,19,14,15,11,10,10,11,12,13,15,16,10,9,0.47368421052631576,fall
+88,Torrey Pines Center North Total,,665,494,470,460,454,456,473,480,493,529,554,454,211,0.3172932330827068,fall
+89,Grand Total,,11347,4168,2852,1910,1672,1612,1740,2079,2663,3628,4493,1612,9735,0.8579360183308363,fall
+0,Arbor,A,226,60,58,50,50,46,46,45,45,92,95,45,181,0.8008849557522124,winter
+1,Arbor,Accessible,15,1,1,0,0,0,0,2,2,3,3,0,15,1,winter
+2,Arbor,Allocated,2,1,1,1,1,1,1,1,1,1,1,1,1,0.5,winter
+3,Arbor,Electric Vehicle,12,0,0,1,1,4,6,3,3,10,10,0,12,1,winter
+4,Arbor,Reserved,19,13,15,13,13,15,15,13,13,17,17,13,6,0.3157894736842105,winter
+5,Arbor,UC Vehicle,2,0,0,0,0,0,0,0,0,1,1,0,2,1,winter
+6,Arbor,Visitor,263,31,29,24,23,25,25,20,21,124,127,20,243,0.9239543726235742,winter
+7,Arbor,Visitor,4,0,0,0,0,0,0,0,0,2,2,0,4,1,winter
+8,Arbor Total,,543,106,104,89,88,91,93,84,85,250,256,84,459,0.8453038674033149,winter
+9,Athena,A,187,136,93,75,65,65,64,67,79,97,112,64,123,0.6577540106951871,winter
+10,Athena,Accessible,81,62,45,29,27,34,35,39,42,52,56,27,54,0.6666666666666666,winter
+11,Athena,Accessible,2,0,1,1,1,2,2,1,1,2,2,0,2,1,winter
+12,Athena,B,654,326,275,214,194,197,188,188,230,305,382,188,466,0.7125382262996942,winter
+13,Athena,Electric Vehicle,43,17,9,6,6,8,12,13,17,21,24,6,37,0.8604651162790697,winter
+14,Athena,Reserved,6,6,6,6,5,5,5,5,5,6,6,5,1,0.16666666666666666,winter
+15,Athena,Visitor,218,173,123,102,90,113,104,96,111,136,158,90,128,0.5871559633027523,winter
+16,Athena,Visitor,30,27,13,13,11,18,19,15,17,21,21,11,19,0.6333333333333333,winter
+17,Athena,Visitor,7,7,4,5,3,3,6,3,4,5,7,3,4,0.5714285714285714,winter
+18,Athena,Visitor,10,5,7,5,6,6,4,3,4,4,7,3,7,0.7,winter
+19,Athena Total,,1238,759,576,456,408,451,439,430,510,649,775,408,830,0.6704361873990307,winter
+20,Bachman,Accessible,5,3,3,2,1,2,3,3,3,3,4,1,4,0.8,winter
+21,Bachman,Accessible,1,1,1,1,1,1,1,1,1,1,1,1,0,0,winter
+22,Bachman,B,1022,75,56,19,5,7,28,26,104,414,506,5,1017,0.9951076320939335,winter
+23,Bachman,Electric Vehicle,5,2,2,1,1,1,1,1,1,1,1,1,4,0.8,winter
+24,Bachman,UC Vehicle,1,0,0,0,0,0,0,0,0,0,0,0,1,1,winter
+25,Bachman Total,,1034,81,62,23,8,11,33,31,109,419,512,8,1026,0.9922630560928434,winter
+26,Campus Point East,A,369,141,73,7,0,4,14,20,38,83,162,0,369,1,winter
+27,Campus Point East,Accessible,12,6,6,5,4,5,6,7,7,8,10,4,8,0.6666666666666666,winter
+28,Campus Point East,Electric Vehicle,3,1,0,0,0,0,0,1,2,2,2,0,3,1,winter
+29,Campus Point East,Reserved,40,24,26,23,23,21,23,23,22,25,26,21,19,0.475,winter
+30,Campus Point East Total,,424,172,105,35,27,30,43,51,69,118,200,27,397,0.9363207547169812,winter
+31,Campus Point West,A,7,2,0,0,0,0,0,0,0,1,0,0,7,1,winter
+32,Campus Point West,Accessible,104,29,12,13,1,2,4,0,2,13,23,0,104,1,winter
+33,Campus Point West,B,218,0,0,0,0,0,0,0,22,40,54,0,218,1,winter
+34,Campus Point West,Electric Vehicle,6,0,0,0,0,1,0,1,1,3,3,0,6,1,winter
+35,Campus Point West,Reserved,18,18,14,14,13,15,13,11,13,13,15,11,7,0.3888888888888889,winter
+36,Campus Point West,Reserved,10,1,1,0,0,0,0,1,2,0,0,0,10,1,winter
+37,Campus Point West,Visitor,670,239,168,111,38,37,47,39,61,164,226,37,633,0.9447761194029851,winter
+38,Campus Point West,Visitor,1,1,0,0,0,1,0,1,1,1,1,0,1,1,winter
+39,Campus Point West Total,,1034,290,195,138,52,56,64,53,102,235,322,52,982,0.9497098646034816,winter
+40,Gilman,A,401,326,237,63,0,4,9,11,42,77,145,0,401,1,winter
+41,Gilman,Accessible,42,2,2,0,0,0,1,2,14,25,32,0,42,1,winter
+42,Gilman,Allocated,5,1,2,3,3,2,1,3,3,3,3,1,4,0.8,winter
+43,Gilman,B,123,1,1,0,0,1,0,2,12,38,71,0,123,1,winter
+44,Gilman,Electric Vehicle,32,10,2,0,0,0,0,0,4,5,14,0,32,1,winter
+45,Gilman,Reserved,9,7,7,6,6,6,5,5,5,6,8,5,4,0.4444444444444444,winter
+46,Gilman,Reserved,10,10,10,10,10,8,10,9,6,5,8,5,5,0.5,winter
+47,Gilman,Reserved,10,10,8,5,5,5,4,3,3,4,6,3,7,0.7,winter
+48,Gilman,Reserved,7,7,7,7,4,4,6,6,4,4,4,4,3,0.42857142857142855,winter
+49,Gilman,Reserved,3,1,1,1,1,1,2,1,2,2,2,1,2,0.6666666666666666,winter
+50,Gilman,UC Vehicle,12,7,8,7,7,8,8,8,7,7,8,7,5,0.4166666666666667,winter
+51,Gilman,Visitor,180,42,20,2,0,3,3,6,2,32,52,0,180,1,winter
+52,Gilman Total,,834,424,305,104,36,42,49,56,104,208,353,36,798,0.9568345323741008,winter
+53,Hopkins,A,233,222,198,170,91,98,92,98,115,97,93,91,142,0.6094420600858369,winter
+54,Hopkins,Accessible,25,20,19,18,14,13,13,18,14,22,18,13,12,0.48,winter
+55,Hopkins,B,603,522,378,384,112,62,90,156,89,165,204,62,541,0.8971807628524047,winter
+56,Hopkins,Carpool,78,75,67,24,14,10,2,6,2,25,7,2,76,0.9743589743589743,winter
+57,Hopkins,Carpool,12,12,12,6,3,3,7,8,5,12,10,3,9,0.75,winter
+58,Hopkins,Electric Vehicle,18,16,14,8,8,6,5,7,4,8,2,2,16,0.8888888888888888,winter
+59,Hopkins,Reserved,15,9,11,8,8,9,7,8,11,10,9,7,8,0.5333333333333333,winter
+60,Hopkins,S,91,1,0,0,1,0,0,0,0,7,2,0,91,1,winter
+61,Hopkins,SR,225,43,23,0,2,0,2,0,0,13,3,0,225,1,winter
+62,Hopkins,UC Vehicle,9,3,3,4,3,1,2,3,3,2,2,1,8,0.8888888888888888,winter
+63,Hopkins,Visitor,90,70,58,38,22,32,25,37,38,49,31,22,68,0.7555555555555555,winter
+64,Hopkins,Visitor,1,0,0,0,0,0,0,0,0,0,0,0,1,1,winter
+65,Hopkins Total,,1400,993,783,660,278,234,245,341,281,410,381,234,1166,0.8328571428571429,winter
+66,Nuevo West/Vela,Accessible,19,18,18,16,17,15,11,14,15,15,17,11,8,0.42105263157894735,winter
+67,Nuevo West/Vela,B,455,139,107,65,61,76,67,70,107,158,290,61,394,0.865934065934066,winter
+68,Nuevo West/Vela,Carpool,15,15,14,14,12,9,1,0,0,2,5,0,15,1,winter
+69,Nuevo West/Vela,Electric Vehicle,34,18,18,17,16,12,15,16,17,18,22,12,22,0.6470588235294118,winter
+70,Nuevo West/Vela Total,,523,190,157,112,106,112,94,100,139,193,334,94,429,0.8202676864244742,winter
+71,Pangea,A,84,74,72,50,30,31,20,23,25,33,41,20,64,0.7619047619047619,winter
+72,Pangea,Accessible,15,11,11,11,8,9,7,10,12,13,13,7,8,0.5333333333333333,winter
+73,Pangea,B,329,184,140,54,26,27,31,24,58,101,154,24,305,0.9270516717325228,winter
+74,Pangea,Electric Vehicle,16,9,9,8,11,7,2,4,4,5,9,2,14,0.875,winter
+75,Pangea,Reserved,12,9,10,7,5,4,8,6,7,7,8,4,8,0.6666666666666666,winter
+76,Pangea,S,410,0,0,0,0,0,0,1,0,4,5,0,410,1,winter
+77,Pangea,UC Vehicle,9,6,6,5,5,5,4,5,5,5,6,4,5,0.5555555555555556,winter
+78,Pangea,Visitor,76,53,53,46,31,8,13,13,26,33,35,8,68,0.8947368421052632,winter
+79,Pangea Total,,951,346,301,181,116,91,85,86,137,201,271,85,866,0.9106203995793901,winter
+80,Scholars,A,292,224,120,44,2,0,6,8,15,29,55,0,292,1,winter
+81,Scholars,Accessible,65,38,41,30,26,33,32,20,25,25,33,20,45,0.6923076923076923,winter
+82,Scholars,B,371,2,0,0,0,0,0,4,14,23,54,0,371,1,winter
+83,Scholars,Carpool,93,77,62,40,17,2,0,3,12,12,14,0,93,1,winter
+84,Scholars,Electric Vehicle,20,13,3,0,0,0,1,0,1,6,3,0,20,1,winter
+85,Scholars,Reserved,32,24,21,18,11,10,11,13,13,13,14,10,22,0.6875,winter
+86,Scholars,S,113,0,0,1,1,0,0,0,1,0,0,0,113,1,winter
+87,Scholars,Service Yard,4,4,4,4,4,4,1,1,1,2,3,1,3,0.75,winter
+88,Scholars,Visitor,147,99,80,32,12,11,13,8,16,16,11,8,139,0.9455782312925171,winter
+89,Scholars Total,,1137,481,331,169,73,60,64,57,98,126,187,57,1080,0.9498680738786279,winter
+90,South,A,156,119,14,0,0,0,3,4,18,35,67,0,156,1,winter
+91,South,Accessible,24,18,13,10,4,3,5,5,6,12,15,3,21,0.875,winter
+92,South,B,582,133,0,1,0,3,9,3,57,160,302,0,582,1,winter
+93,South,Carpool,63,53,31,0,0,0,0,1,0,7,22,0,63,1,winter
+94,South,Carpool,3,3,1,0,0,0,0,1,0,1,1,0,3,1,winter
+95,South,Electric Vehicle,28,23,11,1,3,2,3,0,6,13,16,0,28,1,winter
+96,South,Reserved,6,5,5,4,2,2,3,4,3,3,3,2,4,0.6666666666666666,winter
+97,South,S,314,1,0,0,0,0,1,1,11,19,17,0,314,1,winter
+98,South,Service Yard,2,2,2,2,0,0,1,1,1,1,1,0,2,1,winter
+99,South,UC Vehicle,4,3,3,4,2,2,1,3,2,2,2,1,3,0.75,winter
+100,South,UC Vehicle,9,6,6,6,5,5,5,4,5,5,6,4,5,0.5555555555555556,winter
+101,South,Visitor,112,75,30,24,25,22,12,11,19,10,31,10,102,0.9107142857142857,winter
+102,South Total,,1303,441,116,52,41,39,43,38,128,268,483,38,1265,0.9708365310821182,winter
+103,Torrey Pines Center North,Accessible,5,5,5,5,5,5,5,5,5,5,5,5,0,0,winter
+104,Torrey Pines Center North,Allocated,1,0,0,0,0,0,0,0,0,1,1,0,1,1,winter
+105,Torrey Pines Center North,B,183,171,162,157,157,156,155,154,156,160,172,154,29,0.15846994535519127,winter
+106,Torrey Pines Center North,B,5,5,5,5,4,5,5,5,4,4,4,4,1,0.2,winter
+107,Torrey Pines Center North,Carpool,1,1,1,1,1,1,1,1,1,1,1,1,0,0,winter
+108,Torrey Pines Center North,Loading,1,1,1,1,1,1,1,1,1,1,1,1,0,0,winter
+109,Torrey Pines Center North,Reserved,10,10,10,10,9,9,7,10,9,8,10,7,3,0.3,winter
+110,Torrey Pines Center North,S,5,5,5,5,5,5,5,5,5,5,5,5,0,0,winter
+111,Torrey Pines Center North,Service Yard,1,0,1,1,1,1,1,1,1,1,1,0,1,1,winter
+112,Torrey Pines Center North,Visitor,10,10,10,10,10,8,7,8,8,9,9,7,3,0.3,winter
+113,Torrey Pines Center North Total,,222,208,200,195,193,191,187,190,190,195,209,187,35,0.15765765765765766,winter
+114,Torrey Pines Center South,Accessible,16,13,13,10,10,10,11,12,13,15,15,10,6,0.375,winter
+115,Torrey Pines Center South,Allocated,3,2,2,2,2,2,2,2,2,2,2,2,1,0.3333333333333333,winter
+116,Torrey Pines Center South,Allocated,2,2,1,0,0,0,1,1,2,2,2,0,2,1,winter
+117,Torrey Pines Center South,Allocated,2,2,2,2,2,2,2,2,2,2,2,2,0,0,winter
+118,Torrey Pines Center South,B,244,156,140,117,125,127,128,132,149,166,190,117,127,0.5204918032786885,winter
+119,Torrey Pines Center South,Carpool,8,7,5,6,4,7,4,5,6,6,6,4,4,0.5,winter
+120,Torrey Pines Center South,Electric Vehicle,10,6,6,2,6,6,5,5,7,6,8,2,8,0.8,winter
+121,Torrey Pines Center South,Loading,1,1,1,1,1,1,1,1,0,0,0,0,1,1,winter
+122,Torrey Pines Center South,Reserved,4,2,2,2,2,2,2,2,2,3,3,2,2,0.5,winter
+123,Torrey Pines Center South,Reserved,2,1,1,1,1,1,1,1,1,1,1,1,1,0.5,winter
+124,Torrey Pines Center South,S,130,59,54,38,56,54,59,48,53,60,66,38,92,0.7076923076923077,winter
+125,Torrey Pines Center South,UC Vehicle,15,9,6,10,8,10,12,10,9,9,9,6,9,0.6,winter
+126,Torrey Pines Center South,UC Vehicle,6,3,3,0,0,0,0,0,0,0,0,0,6,1,winter
+127,Torrey Pines Center South,UC Vehicle,6,1,1,0,0,0,0,0,0,0,0,0,6,1,winter
+128,Torrey Pines Center South,Visitor,17,7,8,1,7,4,3,4,5,6,8,1,16,0.9411764705882353,winter
+129,Torrey Pines Center South Total,,466,271,245,192,224,226,231,225,251,278,312,192,274,0.5879828326180258,winter
+0,Arbor,A,226,51,40,39,38,35,37,40,39,75,155,35,191,0.8451327433628318,spring
+1,Arbor,Accessible,15,1,2,2,2,1,1,1,1,2,8,1,14,0.9333333333333333,spring
+2,Arbor,Allocated,1,1,1,1,1,0,0,0,0,0,0,0,1,1,spring
+3,Arbor,Electric Vehicle,12,0,0,0,0,0,0,2,2,5,7,0,12,1,spring
+4,Arbor,Reserved,19,8,8,12,12,11,11,11,11,14,14,8,11,0.5789473684210527,spring
+5,Arbor,UC Vehicle,2,1,1,1,1,0,0,0,0,2,2,0,2,1,spring
+6,Arbor,Visitor,267,57,53,42,41,34,35,19,20,81,154,19,248,0.9288389513108615,spring
+7,Arbor Total,,542,119,105,97,95,81,84,73,73,179,340,73,469,0.8653136531365314,spring
+8,Athena,A,187,124,90,73,70,69,72,66,74,94,118,66,121,0.6470588235294118,spring
+9,Athena,Accessible,83,52,46,23,23,40,35,29,40,56,65,23,60,0.7228915662650602,spring
+10,Athena,B,655,309,239,192,162,157,139,139,167,234,350,139,516,0.7877862595419848,spring
+11,Athena,Electric Vehicle,43,18,11,10,10,9,9,10,13,14,23,9,34,0.7906976744186046,spring
+12,Athena,Reserved,6,6,6,5,5,5,5,5,5,5,5,5,1,0.16666666666666666,spring
+13,Athena,Visitor,265,192,131,97,76,105,95,88,119,150,199,76,189,0.7132075471698113,spring
+14,Athena Total,,1239,701,523,400,346,385,355,337,418,553,760,337,902,0.7280064568200162,spring
+15,Bachman,Accessible,6,2,0,0,0,1,1,4,5,5,5,0,6,1,spring
+16,Bachman,B,1020,146,61,23,23,28,31,81,169,251,536,23,997,0.9774509803921568,spring
+17,Bachman,Electric Vehicle,5,1,1,1,1,2,1,1,2,2,2,1,4,0.8,spring
+18,Bachman,UC Vehicle,1,1,0,0,0,0,0,0,0,0,0,0,1,1,spring
+19,Bachman Total,,1032,150,62,24,24,31,33,86,176,258,543,24,1008,0.9767441860465116,spring
+20,Campus Point East,A,371,144,89,45,25,17,16,14,36,76,124,14,357,0.9622641509433962,spring
+21,Campus Point East,Accessible,12,6,6,7,6,6,4,4,3,5,5,3,9,0.75,spring
+22,Campus Point East,Electric Vehicle,3,3,0,0,0,0,0,0,1,1,3,0,3,1,spring
+23,Campus Point East,Reserved,40,27,23,23,21,21,19,21,20,22,22,19,21,0.525,spring
+24,Campus Point East Total,,426,180,118,75,52,44,39,39,60,104,154,39,387,0.9084507042253521,spring
+25,Campus Point West,A,7,5,0,1,0,2,0,1,0,1,2,0,7,1,spring
+26,Campus Point West,Accessible,104,15,20,14,4,5,1,2,11,23,28,1,103,0.9903846153846154,spring
+27,Campus Point West,B,0,,,,,,,,,,,0,0,,spring
+28,Campus Point West,Electric Vehicle,6,2,0,1,0,0,1,0,1,1,2,0,6,1,spring
+29,Campus Point West,Reserved,155,21,20,15,14,15,12,13,10,9,13,9,146,0.9419354838709677,spring
+30,Campus Point West,Visitor,750,369,282,197,142,136,152,144,214,273,330,136,614,0.8186666666666667,spring
+31,Campus Point West Total,,1022,412,322,228,160,158,166,160,236,307,375,158,864,0.8454011741682974,spring
+32,Gilman,A,400,311,221,32,2,0,11,1,34,75,142,0,400,1,spring
+33,Gilman,Accessible,43,0,0,0,0,0,2,3,12,27,32,0,43,1,spring
+34,Gilman,Allocated,5,4,4,5,5,3,4,3,3,4,3,3,2,0.4,spring
+35,Gilman,B,123,0,0,0,0,0,0,1,10,0,59,0,123,1,spring
+36,Gilman,Electric Vehicle,32,20,9,0,0,2,5,6,4,2,3,0,32,1,spring
+37,Gilman,Reserved,39,31,29,26,18,17,20,17,14,20,22,14,25,0.6410256410256411,spring
+38,Gilman,UC Vehicle,12,10,9,9,9,9,9,8,8,8,8,8,4,0.3333333333333333,spring
+39,Gilman,Visitor,180,61,20,0,0,1,12,1,5,28,35,0,180,1,spring
+40,Gilman Total,,834,437,292,72,34,32,63,40,90,164,304,32,802,0.9616306954436451,spring
+41,Hopkins,A,233,223,192,154,95,80,73,81,80,108,142,73,160,0.6866952789699571,spring
+42,Hopkins,Accessible,25,23,22,23,24,19,15,16,15,14,17,14,11,0.44,spring
+43,Hopkins,B,603,523,349,167,19,0,0,14,39,103,394,0,603,1,spring
+44,Hopkins,Carpool,90,88,66,38,10,2,0,4,2,27,12,0,90,1,spring
+45,Hopkins,Electric Vehicle,18,11,7,0,0,0,0,1,0,2,6,0,18,1,spring
+46,Hopkins,Reserved,15,11,8,8,7,9,8,8,7,7,8,7,8,0.5333333333333333,spring
+47,Hopkins,S,91,0,0,0,0,0,0,0,0,0,3,0,91,1,spring
+48,Hopkins,SR,225,30,0,0,0,0,3,3,0,4,18,0,225,1,spring
+49,Hopkins,UC Vehicle,9,2,2,2,3,5,4,5,5,4,3,2,7,0.7777777777777778,spring
+50,Hopkins,Visitor,91,80,61,46,13,0,11,11,13,25,45,0,91,1,spring
+51,Hopkins Total,,1400,991,707,438,171,115,114,143,161,294,648,114,1286,0.9185714285714286,spring
+52,Nuevo West/Vela,Accessible,19,11,12,11,10,11,11,11,10,12,12,10,9,0.47368421052631576,spring
+53,Nuevo West/Vela,B,455,138,84,59,57,53,45,47,78,169,235,45,410,0.9010989010989011,spring
+54,Nuevo West/Vela,Carpool,15,15,14,13,13,9,0,0,0,4,4,0,15,1,spring
+55,Nuevo West/Vela,Electric Vehicle,34,15,15,15,15,17,16,14,17,19,22,14,20,0.5882352941176471,spring
+56,Nuevo West/Vela Total,,523,179,125,98,95,90,72,72,105,204,273,72,451,0.8623326959847036,spring
+57,Pangea,A,84,67,62,43,17,9,14,17,24,37,48,9,75,0.8928571428571429,spring
+58,Pangea,Accessible,15,11,10,10,7,4,4,8,7,7,12,4,11,0.7333333333333333,spring
+59,Pangea,B,329,249,178,98,53,37,10,12,35,94,161,10,319,0.9696048632218845,spring
+60,Pangea,Electric Vehicle,16,3,3,3,3,3,3,3,4,3,5,3,13,0.8125,spring
+61,Pangea,Reserved,12,4,3,3,4,5,4,6,6,7,10,3,9,0.75,spring
+62,Pangea,S,410,0,0,0,0,0,0,0,16,16,25,0,410,1,spring
+63,Pangea,UC Vehicle,9,6,6,6,6,5,5,4,4,5,6,4,5,0.5555555555555556,spring
+64,Pangea,Visitor,76,58,53,30,3,6,15,19,22,44,46,3,73,0.9605263157894737,spring
+65,Pangea Total,,951,398,315,193,93,69,55,69,118,213,313,55,896,0.9421661409043113,spring
+66,Scholars,A,292,248,185,132,77,54,51,66,86,114,121,51,241,0.8253424657534246,spring
+67,Scholars,Accessible,65,42,33,28,26,23,22,23,29,32,37,22,43,0.6615384615384615,spring
+68,Scholars,B,371,27,1,0,0,0,7,3,20,42,76,0,371,1,spring
+69,Scholars,Carpool,93,78,60,11,2,0,3,0,0,7,11,0,93,1,spring
+70,Scholars,Electric Vehicle,20,13,6,5,1,0,1,0,0,5,4,0,20,1,spring
+71,Scholars,Reserved,26,28,26,19,14,11,12,12,13,13,13,11,15,0.5769230769230769,spring
+72,Scholars,S,113,0,0,0,0,0,0,0,1,0,0,0,113,1,spring
+73,Scholars,Service Yard,4,4,4,4,4,4,4,4,4,4,4,4,0,0,spring
+74,Scholars,Visitor,153,98,50,6,0,0,2,1,3,13,23,0,153,1,spring
+75,Scholars Total,,1137,538,365,205,124,92,102,109,156,230,289,92,1045,0.9190853122251539,spring
+76,South,A,156,119,29,0,0,0,0,0,16,44,71,0,156,1,spring
+77,South,Accessible,24,15,10,4,3,3,2,4,5,14,19,2,22,0.9166666666666666,spring
+78,South,B,582,180,0,0,1,3,1,0,32,174,298,0,582,1,spring
+79,South,Carpool,66,50,23,0,0,0,0,0,7,13,16,0,66,1,spring
+80,South,Electric Vehicle,28,17,4,1,0,3,0,1,2,4,6,0,28,1,spring
+81,South,Reserved,6,6,6,4,3,2,2,2,2,3,4,2,4,0.6666666666666666,spring
+82,South,S,314,3,0,0,0,0,1,0,0,10,9,0,314,1,spring
+83,South,Service Yard,2,2,2,2,1,1,1,1,1,1,1,1,1,0.5,spring
+84,South,UC Vehicle,13,11,10,10,12,11,11,8,6,6,6,6,7,0.5384615384615384,spring
+85,South,Visitor,112,66,31,0,0,0,0,0,1,21,34,0,112,1,spring
+86,South Total,,1303,469,115,21,20,23,18,16,72,290,464,16,1287,0.9877206446661551,spring
+87,Torrey Pines Center North,Accessible,5,5,4,3,3,3,3,3,3,3,4,3,2,0.4,spring
+88,Torrey Pines Center North,Allocated,1,0,0,0,0,0,0,0,0,1,1,0,1,1,spring
+89,Torrey Pines Center North,B,188,182,151,137,136,134,133,132,138,147,174,132,56,0.2978723404255319,spring
+90,Torrey Pines Center North,Carpool,1,1,1,1,1,1,1,1,1,1,1,1,0,0,spring
+91,Torrey Pines Center North,Loading,1,1,1,1,1,1,1,1,1,1,1,1,0,0,spring
+92,Torrey Pines Center North,Reserved,10,10,10,10,9,10,10,10,10,10,10,9,1,0.1,spring
+93,Torrey Pines Center North,S,5,5,5,5,5,5,5,5,5,5,5,5,0,0,spring
+94,Torrey Pines Center North,Service Yard,1,0,0,0,0,0,1,0,1,1,1,0,1,1,spring
+95,Torrey Pines Center North,Visitor,10,7,5,5,2,2,3,1,2,3,8,1,9,0.9,spring
+96,Torrey Pines Center North Total,,222,211,177,162,157,156,157,153,161,172,205,153,69,0.3108108108108108,spring
+97,Torrey Pines Center South,Accessible,16,12,12,11,12,11,11,12,14,15,16,11,5,0.3125,spring
+98,Torrey Pines Center South,Allocated,7,5,4,4,4,3,4,4,3,5,5,3,4,0.5714285714285714,spring
+99,Torrey Pines Center South,B,244,170,137,133,96,86,101,110,132,163,184,86,158,0.6475409836065574,spring
+100,Torrey Pines Center South,Carpool,8,7,7,5,3,3,3,4,3,4,5,3,5,0.625,spring
+101,Torrey Pines Center South,Electric Vehicle,10,8,5,4,3,3,4,3,5,7,6,3,7,0.7,spring
+102,Torrey Pines Center South,Loading,1,0,1,0,0,1,1,1,1,0,0,0,1,1,spring
+103,Torrey Pines Center South,Reserved,6,5,4,5,5,4,4,6,6,5,5,4,2,0.3333333333333333,spring
+104,Torrey Pines Center South,S,130,40,36,28,25,24,23,25,32,45,82,23,107,0.823076923076923,spring
+105,Torrey Pines Center South,UC Vehicle,27,18,18,7,7,16,9,9,9,9,8,7,20,0.7407407407407407,spring
+106,Torrey Pines Center South,Visitor,17,5,2,5,4,6,5,3,5,12,10,2,15,0.8823529411764706,spring
+107,Torrey Pines Center South Total,,466,270,226,202,159,157,165,177,210,265,321,157,309,0.6630901287553648,spring
+108,Grand Total,,11097,5055,3452,2215,1530,1433,1423,1474,2036,3233,4989,1423,9674,0.871767144273227,spring
+0,Athena,A,187,125,105,60,61,52,51,38,63,67,85,38,149,0.7967914438502673,summer
+1,Athena,Accessible,82,58,53,36,36,42,38,39,54,51,59,36,46,0.5609756097560976,summer
+2,Athena,Allocated,45,23,20,16,18,18,14,12,15,21,26,12,33,0.7333333333333333,summer
+3,Athena,B,653,332,260,217,204,216,194,196,205,256,305,194,459,0.7029096477794793,summer
+4,Athena,Reserved,6,6,6,5,5,5,5,5,5,5,5,5,1,0.16666666666666666,summer
+5,Athena,Visitor,265,152,122,90,75,100,97,86,89,136,160,75,190,0.7169811320754716,summer
+6,Athena Total,,1238,696,566,424,399,433,399,376,431,536,640,376,862,0.6962843295638126,summer
+7,Campus Point East,A,372,139,71,45,52,48,50,59,73,97,111,45,327,0.8790322580645161,summer
+8,Campus Point East,Accessible,12,9,8,9,8,8,10,9,8,10,10,8,4,0.3333333333333333,summer
+9,Campus Point East,Allocated,3,2,0,0,0,0,0,0,0,0,0,0,3,1,summer
+10,Campus Point East,Reserved,37,23,27,26,26,25,25,27,28,27,29,23,14,0.3783783783783784,summer
+11,Campus Point East Total,,424,173,106,80,86,81,85,95,109,134,150,80,344,0.8113207547169812,summer
+12,Campus Point West,A,7,3,0,0,0,0,0,0,0,1,1,0,7,1,summer
+13,Campus Point West,Accessible,104,48,27,8,7,16,17,13,24,26,29,7,97,0.9326923076923077,summer
+14,Campus Point West,Allocated,17,9,3,1,5,2,1,0,0,2,3,0,17,1,summer
+15,Campus Point West,B,277,0,0,0,0,0,0,15,42,63,74,0,277,1,summer
+16,Campus Point West,Reserved,18,0,0,0,0,0,0,0,0,0,0,0,18,1,summer
+17,Campus Point West,Visitor,614,214,82,37,1,20,15,4,76,112,149,1,613,0.998371335504886,summer
+18,Campus Point West Total,,1037,274,112,46,13,38,33,32,142,204,256,13,1024,0.9874638379942141,summer
+19,Gilman,A,401,267,203,148,129,122,126,123,150,178,210,122,279,0.6957605985037406,summer
+20,Gilman,Accessible,42,2,1,0,0,1,2,6,13,21,35,0,42,1,summer
+21,Gilman,Allocated,64,41,31,25,21,23,18,26,31,31,40,18,46,0.71875,summer
+22,Gilman,B,123,0,0,0,0,0,1,4,14,39,61,0,123,1,summer
+23,Gilman,Reserved,13,8,7,8,8,9,9,7,7,8,9,7,6,0.46153846153846156,summer
+24,Gilman,UC Vehicle,12,7,7,7,7,7,7,6,6,6,6,6,6,0.5,summer
+25,Gilman,Visitor,186,66,11,2,2,2,2,5,13,45,78,2,184,0.989247311827957,summer
+26,Gilman Total,,841,391,260,190,167,164,165,177,234,328,439,164,677,0.8049940546967895,summer
+27,Hopkins,A,233,221,211,203,203,203,202,202,198,210,210,198,35,0.15021459227467812,summer
+28,Hopkins,Accessible,25,23,23,23,22,22,23,23,23,23,24,22,3,0.12,summer
+29,Hopkins,Allocated,103,88,85,81,79,77,77,78,77,77,82,77,26,0.2524271844660194,summer
+30,Hopkins,B,603,496,450,399,381,369,363,353,349,407,438,349,254,0.42122719734660036,summer
+31,Hopkins,Reserved,14,11,9,7,5,5,7,7,8,7,8,5,9,0.6428571428571429,summer
+32,Hopkins,S,100,66,63,21,14,10,13,13,9,9,31,9,91,0.91,summer
+33,Hopkins,SR,228,207,207,205,199,196,192,197,201,207,204,192,36,0.15789473684210525,summer
+34,Hopkins,UC Vehicle,6,4,3,4,3,4,3,3,3,3,3,3,3,0.5,summer
+35,Hopkins,Visitor,90,72,67,55,48,50,56,45,57,58,58,45,45,0.5,summer
+36,Hopkins Total,,1402,1188,1118,998,954,936,936,921,925,1001,1058,921,481,0.34308131241084167,summer
+37,Medical Center Hillcrest,A,240,39,22,25,22,24,33,29,34,90,117,22,218,0.9083333333333333,summer
+38,Medical Center Hillcrest,Accessible,45,6,7,7,5,4,6,6,8,20,28,4,41,0.9111111111111111,summer
+39,Medical Center Hillcrest,Allocated,184,98,78,80,82,83,91,76,94,97,97,76,108,0.5869565217391305,summer
+40,Medical Center Hillcrest,B,1089,125,123,87,82,85,107,164,374,480,596,82,1007,0.9247015610651974,summer
+41,Medical Center Hillcrest,Loading,4,2,1,1,1,0,0,0,1,1,2,0,4,1,summer
+42,Medical Center Hillcrest,Reserved,93,73,68,63,62,63,63,61,66,69,71,61,32,0.34408602150537637,summer
+43,Medical Center Hillcrest,Service Yard,14,4,5,2,2,3,3,0,2,2,2,0,14,1,summer
+44,Medical Center Hillcrest,UC Vehicle,13,3,4,6,4,2,1,2,0,1,1,0,13,1,summer
+45,Medical Center Hillcrest,Visitor,263,61,51,44,46,65,59,53,80,145,148,44,219,0.8326996197718631,summer
+46,Medical Center Hillcrest Total,,1945,411,359,315,306,329,363,391,659,905,1062,306,1639,0.8426735218508997,summer
+47,Nuevo West/Vela,Accessible,19,18,18,18,18,18,18,18,18,18,18,18,1,0.05263157894736842,summer
+48,Nuevo West/Vela,Allocated,49,21,18,18,19,13,6,9,7,7,19,6,43,0.8775510204081632,summer
+49,Nuevo West/Vela,B,455,154,98,86,91,92,96,105,109,125,177,86,369,0.810989010989011,summer
+50,Nuevo West/Vela Total,,523,193,134,122,128,123,120,132,134,150,214,120,403,0.7705544933078394,summer
+51,Pangea,A,84,81,73,71,66,63,63,64,66,71,81,63,21,0.25,summer
+52,Pangea,Accessible,15,14,14,14,14,13,13,13,13,13,14,13,2,0.13333333333333333,summer
+53,Pangea,Allocated,16,12,14,14,11,10,11,10,13,13,13,10,6,0.375,summer
+54,Pangea,B,329,282,255,238,230,234,232,234,231,266,289,230,99,0.3009118541033435,summer
+55,Pangea,Reserved,12,5,4,4,4,5,6,5,4,3,3,3,9,0.75,summer
+56,Pangea,S,410,295,300,301,300,302,305,305,307,320,321,295,115,0.2804878048780488,summer
+57,Pangea,UC Vehicle,9,7,7,7,7,7,6,7,7,8,7,6,3,0.3333333333333333,summer
+58,Pangea,Visitor,76,72,69,66,59,56,56,56,58,33,31,31,45,0.5921052631578947,summer
+59,Pangea Total,,951,768,736,715,691,690,692,694,699,727,759,690,261,0.2744479495268139,summer
+60,Scholars,A,292,257,241,225,206,203,209,214,220,237,243,203,89,0.3047945205479452,summer
+61,Scholars,Accessible,65,57,53,60,54,45,49,51,55,58,59,45,20,0.3076923076923077,summer
+62,Scholars,Allocated,113,100,95,97,84,86,87,89,89,93,100,84,29,0.25663716814159293,summer
+63,Scholars,B,371,229,198,159,140,141,135,160,155,220,281,135,236,0.6361185983827493,summer
+64,Scholars,Reserved,32,30,28,27,23,23,24,25,27,26,24,23,9,0.28125,summer
+65,Scholars,S,113,57,50,45,35,39,38,47,46,46,53,35,78,0.6902654867256637,summer
+66,Scholars,Service Yard,4,4,4,4,4,4,4,4,4,4,4,4,0,0,summer
+67,Scholars,Visitor,147,67,50,37,30,35,45,50,77,82,83,30,117,0.7959183673469388,summer
+68,Scholars Total,,1137,801,719,654,576,576,591,640,673,766,847,576,561,0.49340369393139843,summer
+69,South Parking Structure,A,158,120,20,0,2,1,1,4,10,25,42,0,158,1,summer
+70,South Parking Structure,Accessible,24,16,17,12,12,10,9,8,8,12,16,8,16,0.6666666666666666,summer
+71,South Parking Structure,Allocated,98,81,77,63,53,36,31,27,30,35,43,27,71,0.7244897959183674,summer
+72,South Parking Structure,B,534,218,206,0,0,4,10,27,90,146,237,0,534,1,summer
+73,South Parking Structure,Reserved,4,3,0,1,1,3,2,2,2,2,3,0,4,1,summer
+74,South Parking Structure,S,428,384,324,229,181,166,228,172,204,247,280,166,262,0.6121495327102804,summer
+75,South Parking Structure,Service Yard,2,1,1,2,2,2,1,1,0,0,0,0,2,1,summer
+76,South Parking Structure,UC Vehicle,13,11,11,11,11,10,10,10,8,8,8,8,5,0.38461538461538464,summer
+77,South Parking Structure,Visitor,46,33,13,0,1,4,1,3,12,16,20,0,46,1,summer
+78,South Parking Structure Total,,1307,867,669,318,263,236,293,254,364,491,649,236,1071,0.819433817903596,summer
+79,Torrey Pines Center North,Accessible,15,11,12,12,12,12,12,13,13,13,13,11,4,0.26666666666666666,summer
+80,Torrey Pines Center North,Allocated,35,25,23,22,21,23,25,25,24,25,27,21,14,0.4,summer
+81,Torrey Pines Center North,B,563,437,418,418,421,427,430,443,463,470,502,418,145,0.25754884547069273,summer
+82,Torrey Pines Center North,Loading,2,2,2,2,2,2,2,2,2,2,2,2,0,0,summer
+83,Torrey Pines Center North,Reserved,14,11,11,9,9,10,13,13,13,13,14,9,5,0.35714285714285715,summer
+84,Torrey Pines Center North,S,9,7,7,8,8,8,8,7,7,7,7,7,2,0.2222222222222222,summer
+85,Torrey Pines Center North,Service Yard,1,1,1,1,1,1,1,1,1,1,1,1,0,0,summer
+86,Torrey Pines Center North,UC Vehicle,7,3,3,3,3,3,3,3,3,3,3,3,4,0.5714285714285714,summer
+87,Torrey Pines Center North,Visitor,19,14,12,13,12,14,11,13,13,16,19,11,8,0.42105263157894735,summer
+88,Torrey Pines Center North Total,,665,511,489,488,489,500,505,520,539,550,588,488,177,0.2661654135338346,summer
+89,Grand Total,,11470,6273,5268,4350,4072,4106,4182,4232,4909,5792,6662,4072,7398,0.6449869224062772,summer
